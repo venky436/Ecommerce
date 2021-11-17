@@ -1,0 +1,9 @@
+export const ADD_TO_CRT ="ADD_TO_CART"
+export const REMOVE_FROM_CRT ="REMOVE_FROM_CART"
+
+export const CART_SHIPPING_DETAILS = 'CART_SHIPPING_DETAILS'
+export const PAYMENT_METHOD = 'PAYMENT_METHOD'
+
+
+
+
